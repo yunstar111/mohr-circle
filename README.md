@@ -6,7 +6,7 @@
 
 ## 在线使用
 
-**https://yunstar111.github.io/mohr-circle/** ← 部署后可用（手机可直接打开）
+**https://yunstar111.github.io/mohr-circle/** ← 手机、电脑都能直接打开
 
 或者下载 `index.html` 双击打开——不需要联网，不需要安装任何东西。
 
